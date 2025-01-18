@@ -1,0 +1,7 @@
+
+# Allow crawling of all content
+User-agent: *
+Allow: /
+
+
+Sitemap: https://mesinkasir.github.io/11ty-skeleton/sitemap.xml

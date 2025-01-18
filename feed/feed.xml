@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="pretty-atom-feed.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <title>Skeelton 11ty</title>
+  <subtitle>A Starter skeleton project 11ty aka eleventy.</subtitle>
+  <link href="https://mesinkasir.github.io/11ty-skeleton/feed/feed.xml" rel="self" />
+  <link href="https://mesinkasir.github.io/11ty-skeleton/11ty-skeleton/" />
+  <updated>2025-01-18T00:00:00Z</updated>
+  <id>https://mesinkasir.github.io/11ty-skeleton/11ty-skeleton/</id>
+  <author>
+    <name>Creativitas</name>
+  </author>
+  <entry>
+    <title>Jamstack War</title>
+    <link href="https://mesinkasir.github.io/11ty-skeleton/blog/jamstackwar11ty/" />
+    <updated>2025-01-18T00:00:00Z</updated>
+    <id>https://mesinkasir.github.io/11ty-skeleton/blog/jamstackwar11ty/</id>
+    <content type="html">&lt;h3 id=&quot;11ty-solider&quot;&gt;11ty Solider&lt;/h3&gt;
+&lt;p&gt;The story of the Jamstack war, where the eleventy soldiers fought bravely to achieve victory.&lt;/p&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.css&quot;&gt;
+&lt;script defer=&quot;defer&quot; src=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.js&quot;&gt;&lt;/script&gt;
+&lt;div id=&quot;hJGaMGmuZEc&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;hJGaMGmuZEc&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/hJGaMGmuZEc/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;Creativitas Art creative by dre&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>11ty Rap Hip Hop</title>
+    <link href="https://mesinkasir.github.io/11ty-skeleton/blog/11ty-rap/" />
+    <updated>2025-01-17T00:00:00Z</updated>
+    <id>https://mesinkasir.github.io/11ty-skeleton/blog/11ty-rap/</id>
+    <content type="html">&lt;h3 id=&quot;11ty-rap&quot;&gt;11ty Rap&lt;/h3&gt;
+&lt;p&gt;Let&#39;s Sing Eleventy 11ty Rap HipHop old School&lt;/p&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.css&quot;&gt;
+&lt;script defer=&quot;defer&quot; src=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.js&quot;&gt;&lt;/script&gt;
+&lt;div id=&quot;7hiUvyxRIOY&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;7hiUvyxRIOY&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/7hiUvyxRIOY/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;Creativitas Art creative by dre&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>11ty Minimalist Themes</title>
+    <link href="https://mesinkasir.github.io/11ty-skeleton/blog/11ty-minimalist/" />
+    <updated>2025-01-17T00:00:00Z</updated>
+    <id>https://mesinkasir.github.io/11ty-skeleton/blog/11ty-minimalist/</id>
+    <content type="html">&lt;h3 id=&quot;11ty-minimalist-themes&quot;&gt;11ty Minimalist Themes&lt;/h3&gt;
+&lt;p&gt;JAMSTACK Static Site Generator 11ty Eleventy Minimalist Themes&lt;/p&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.css&quot;&gt;
+&lt;script defer=&quot;defer&quot; src=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.js&quot;&gt;&lt;/script&gt;
+&lt;div id=&quot;N-EMhpmg64E&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;N-EMhpmg64E&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/N-EMhpmg64E/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;https://creativitaz.gumroad.com/l/litov11ty&quot; class=&quot;button no&quot;&gt;Download Now&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Creativitas Art creative by dre&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>11ty Company Themes</title>
+    <link href="https://mesinkasir.github.io/11ty-skeleton/blog/11ty-company-themes/" />
+    <updated>2025-01-17T00:00:00Z</updated>
+    <id>https://mesinkasir.github.io/11ty-skeleton/blog/11ty-company-themes/</id>
+    <content type="html">&lt;h3 id=&quot;11ty-company-themes&quot;&gt;11ty Company Themes&lt;/h3&gt;
+&lt;p&gt;JAMSTACK Static Site Generator 11ty Eleventy Company Themes&lt;/p&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.css&quot;&gt;
+&lt;script defer=&quot;defer&quot; src=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.js&quot;&gt;&lt;/script&gt;
+&lt;div id=&quot;BjwOV1qz4iQ&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;BjwOV1qz4iQ&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/BjwOV1qz4iQ/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;https://creativitaz.gumroad.com/l/captaline11ty&quot; class=&quot;button no&quot;&gt;Download Now&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Creativitas Art creative by dre&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>11ty Cinema Teaser</title>
+    <link href="https://mesinkasir.github.io/11ty-skeleton/blog/11ty-cinema-teaser/" />
+    <updated>2025-01-17T00:00:00Z</updated>
+    <id>https://mesinkasir.github.io/11ty-skeleton/blog/11ty-cinema-teaser/</id>
+    <content type="html">&lt;h3 id=&quot;11ty-teaser&quot;&gt;11ty Teaser&lt;/h3&gt;
+&lt;p&gt;JAMSTACK Static Site Generator 11ty Eleventy Cinema Tesaer&lt;/p&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.css&quot;&gt;
+&lt;script defer=&quot;defer&quot; src=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.js&quot;&gt;&lt;/script&gt;
+&lt;div id=&quot;Q3t5lzvpBdE&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;Q3t5lzvpBdE&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/Q3t5lzvpBdE/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
+&lt;p&gt;Creativitas Art creative by dre&lt;/p&gt;
+</content>
+  </entry>
+</feed>

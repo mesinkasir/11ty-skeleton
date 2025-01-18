@@ -3,7 +3,7 @@ layout: "design/start.njk"
 title: JAMSTACK Skeleton Fast Theme
 description: Speed ​​up your website performance with skeleton project by creativitas.dev
 ---
-### Hi, and Welcome in to skeleton 11ty Projects
+## Hi, and Welcome in to skeleton 11ty Projects
 
 A Projects presented by creativitas.dev to help you build a website with great performance.
 

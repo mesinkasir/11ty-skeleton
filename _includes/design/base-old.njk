@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="{{ metadata.language }}">
+<head>
+{% include "partials/seo.njk" %}
+</head>
+<body>
+<a href="#skip" class="visually-hidden">Skip to main content</a>
+{% set css %} {% include "style/main.css" %} {% endset %}
+<style>{{ css | cssmin | safe }}</style>
+<header>
+<h1><a href="/" class="home-link">{{ metadata.title }}</a></h1>
+<nav>{% for nav in metadata.navbar %}<a href="{{nav.url}}">{{nav.nav}}</a> {% endfor %}</nav>
+</header>
+<main id="skip">
+<heading-anchors>
+{{ content | safe }}
+</heading-anchors>
+</main>
+<footer>
+<p><small>
+<em>{{metadata.title}} Built with <a href="https://www.11ty.dev/">{{ eleventy.generator }}</a> Develope by <a href="https://creativitas.dev">Creativitas</a></em>
+</small></p>
+</footer>
+<script type="module" src="{% getBundleFileUrl "js" %}"></script>
+</body>
+</html>

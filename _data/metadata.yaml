@@ -1,0 +1,26 @@
+title: 11ty 💀 Skeleton
+description: A Skeleton 11ty Starter project for built your project from scratch by creativitas.dev 
+url: https://mesinkasir.github.io/11ty-skeleton
+ads_id: 6422989243541464
+language: en
+favicon: /img/skeleton2.webp
+image: /img/skeleton2.webp
+locale: "en_US"
+metasocial: 
+ - facebook: "https://creativitas.dev/"
+ - twitteruser: "https://creativitas.dev/"
+ - twitter: "https://creativitas.dev/"
+navbar: 
+ - nav: Home
+   url: /
+ - nav: About
+   url: /page/about/
+ - nav: Docs
+   url: /page/docs/
+ - nav: Blogs
+   url: /blog/
+author:
+ name: Creativitas
+ email: creativebydre@gmail.com
+ url: https://creativitas.dev/
+

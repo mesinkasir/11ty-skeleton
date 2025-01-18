@@ -1,0 +1,4 @@
+---
+layout: design/base.njk
+---
+<h1><a href="{{page.url}}">{{ title }}</a></h1><h2>{{description}}</h2><p>Publish : <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time> <br/>Tags: {%- for tag in tags | filterTagList %}{%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}<small>#<a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{%- if not loop.last %} {% endif %}</small>{%- endfor %}</p>{{ content | safe }}{%- if collections.posts %}{%- set previousPost = collections.posts | getPreviousCollectionItem %}{%- set nextPost = collections.posts | getNextCollectionItem %}{%- if nextPost or previousPost %}<p class="pagi">{%- if previousPost %}<a href="{{ previousPost.url }}" class="button no">←  {{ previousPost.data.title }}</a> {% endif %} {%- if nextPost %} <a href="{{ nextPost.url }}" class="button no">{{ nextPost.data.title }} →</a>{% endif %}</p>{%- endif %}{%- endif %}

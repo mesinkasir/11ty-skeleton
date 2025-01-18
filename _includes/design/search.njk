@@ -1,0 +1,4 @@
+---
+layout: design/base.njk
+---
+<h1><a href="{{page.url}}">{{ title }}</a></h1><h2>{{description}}</h2><link href="/pagefind/pagefind-ui.css" rel="stylesheet"><script src="/pagefind/pagefind-ui.js"></script><div id="search"></div>{{ content | safe }}<script>window.addEventListener('DOMContentLoaded', (event) => {new PagefindUI({ element: "#search", showSubResults: true });});</script>

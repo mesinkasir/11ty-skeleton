@@ -4,7 +4,7 @@ description: Why I built skeleton 11ty projects.
 ---
 ### About Skeleton 11ty
 
-This project is developed by [Creativitas](https://creativitas.dev), built using the 11ty static site generator, and is built for the needs of those who want a site with the best performance and speed. And also for my code base to develop the project from scratch.
+This project is developed by [Creativitas](https://creativitas.dev), built using the [11ty](https://www.11ty.dev) static site generator, and is built for the needs of those who want a site with the best performance and speed. And also for my code base to develop the project from scratch.
 
 ![Skeleton fast jamstack themes 11ty](/img/skeleton3.webp)
 

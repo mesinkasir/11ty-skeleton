@@ -21,7 +21,7 @@ Or download source code project
 
 {% button "Download Now", "https://creativitaz.gumroad.com/l/skeleton-11ty" %} {% button "Github", "https://github.com/mesinkasir/11ty-skeleton" %} 
 
-Read Documentation: [Access Documentation →](/page/docs/)
+Read Documentation: [Access Documentation →](https://www.hockeycomputindo.com/themes/eleventy/11ty-skeleton)
 
 ### Support Us
 

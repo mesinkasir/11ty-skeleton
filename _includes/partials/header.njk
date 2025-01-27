@@ -1,1 +1,1 @@
-<header><h1><a href="/" class="no">{{ metadata.title }}</a></h1><nav>{% for nav in metadata.navbar %}<a href="{{nav.url}}" class="button no">{{nav.nav}}</a> {% endfor %}</nav></header>
+<header><h1><a href="/" class="no">{{ metadata.title }}</a></h1><nav>{% for nav in metadata.navbar %}<a href="{{nav.url}}" aria-label="Menu {{nav.nav}}" class="button no">{{nav.nav}}</a> {% endfor %}</nav></header>

@@ -46,7 +46,7 @@
 &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.css&quot;&gt;
 &lt;script defer=&quot;defer&quot; src=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.js&quot;&gt;&lt;/script&gt;
 &lt;div id=&quot;N-EMhpmg64E&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;N-EMhpmg64E&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/N-EMhpmg64E/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
-&lt;p&gt;&lt;a href=&quot;https://creativitaz.gumroad.com/l/litov11ty&quot; class=&quot;button no&quot;&gt;Download Now&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://creativitaz.gumroad.com/l/litov11ty&quot; aria-label=&quot;Download Now&quot; class=&quot;button no&quot;&gt;Download Now&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Creativitas Art creative by dre&lt;/p&gt;
 </content>
   </entry>
@@ -60,7 +60,7 @@
 &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.css&quot;&gt;
 &lt;script defer=&quot;defer&quot; src=&quot;https://cdn.jsdelivr.net/gh/paulirish/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.js&quot;&gt;&lt;/script&gt;
 &lt;div id=&quot;BjwOV1qz4iQ&quot; class=&quot;eleventy-plugin-youtube-embed&quot;&gt;&lt;lite-youtube videoid=&quot;BjwOV1qz4iQ&quot; style=&quot;background-image: url(&#39;https://i.ytimg.com/vi/BjwOV1qz4iQ/hqdefault.jpg&#39;);&quot;&gt;&lt;div class=&quot;lty-playbtn&quot;&gt;&lt;/div&gt;&lt;/lite-youtube&gt;&lt;/div&gt;
-&lt;p&gt;&lt;a href=&quot;https://creativitaz.gumroad.com/l/captaline11ty&quot; class=&quot;button no&quot;&gt;Download Now&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://creativitaz.gumroad.com/l/captaline11ty&quot; aria-label=&quot;Download Now&quot; class=&quot;button no&quot;&gt;Download Now&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Creativitas Art creative by dre&lt;/p&gt;
 </content>
   </entry>

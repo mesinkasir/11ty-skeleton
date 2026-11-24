@@ -1,5 +1,7 @@
 # The 💀 Skeleton Starter
 
+Explore all projects: https://www.hockeycomputindo.com
+
 ![Skeleton 11ty](skeleton.jpg)
 
 A Starter Project 11ty Skeleton for help you build new project from scratch with this code base, Focus on speed and peformance
